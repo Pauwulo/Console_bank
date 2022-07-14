@@ -1,5 +1,6 @@
 ﻿using System;
 using funcoes_conta.Class;
+using System.Threading;
 
 namespace Console_bank;
 
@@ -59,6 +60,13 @@ class Program
                     contaSegundaria.deposito_transferencia(valor_transferencia);
                     goto inicio;
                 }
+                break;
+                default:
+                Console.Clear();
+                Console.WriteLine("\n\n\nSelecione uma opção valida\n\n\n");
+                Thread.Sleep(2000);
+                goto inicio;
+
         }
     }
 }
