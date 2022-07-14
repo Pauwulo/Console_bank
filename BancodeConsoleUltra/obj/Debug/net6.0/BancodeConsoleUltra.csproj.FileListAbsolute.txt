@@ -1,0 +1,15 @@
+C:\Users\Paulo\source\repos\BancodeConsoleUltra\BancodeConsoleUltra\bin\Debug\net6.0\BancodeConsoleUltra.exe
+C:\Users\Paulo\source\repos\BancodeConsoleUltra\BancodeConsoleUltra\bin\Debug\net6.0\BancodeConsoleUltra.deps.json
+C:\Users\Paulo\source\repos\BancodeConsoleUltra\BancodeConsoleUltra\bin\Debug\net6.0\BancodeConsoleUltra.runtimeconfig.json
+C:\Users\Paulo\source\repos\BancodeConsoleUltra\BancodeConsoleUltra\bin\Debug\net6.0\BancodeConsoleUltra.dll
+C:\Users\Paulo\source\repos\BancodeConsoleUltra\BancodeConsoleUltra\bin\Debug\net6.0\BancodeConsoleUltra.pdb
+C:\Users\Paulo\source\repos\BancodeConsoleUltra\BancodeConsoleUltra\obj\Debug\net6.0\BancodeConsoleUltra.csproj.AssemblyReference.cache
+C:\Users\Paulo\source\repos\BancodeConsoleUltra\BancodeConsoleUltra\obj\Debug\net6.0\BancodeConsoleUltra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\source\repos\BancodeConsoleUltra\BancodeConsoleUltra\obj\Debug\net6.0\BancodeConsoleUltra.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\BancodeConsoleUltra\BancodeConsoleUltra\obj\Debug\net6.0\BancodeConsoleUltra.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\BancodeConsoleUltra\BancodeConsoleUltra\obj\Debug\net6.0\BancodeConsoleUltra.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\BancodeConsoleUltra\BancodeConsoleUltra\obj\Debug\net6.0\BancodeConsoleUltra.dll
+C:\Users\Paulo\source\repos\BancodeConsoleUltra\BancodeConsoleUltra\obj\Debug\net6.0\refint\BancodeConsoleUltra.dll
+C:\Users\Paulo\source\repos\BancodeConsoleUltra\BancodeConsoleUltra\obj\Debug\net6.0\BancodeConsoleUltra.pdb
+C:\Users\Paulo\source\repos\BancodeConsoleUltra\BancodeConsoleUltra\obj\Debug\net6.0\BancodeConsoleUltra.genruntimeconfig.cache
+C:\Users\Paulo\source\repos\BancodeConsoleUltra\BancodeConsoleUltra\obj\Debug\net6.0\ref\BancodeConsoleUltra.dll
