@@ -63,7 +63,7 @@ class Program
                 break;
                 default:
                 Console.Clear();
-                Console.WriteLine("\n\n\nSelecione uma opção valida\n\n\n");
+                Console.WriteLine("\n\n\nSelecione uma opção valida animal\n\n\n");
                 Thread.Sleep(2000);
                 goto inicio;
 
